@@ -1,0 +1,25 @@
+h1{
+    columns: #005550;;
+    }
+.header{
+background-color: cornflowerblue;
+display: flex;
+justify-content: space-between;
+}
+.menu{
+display: flex;
+justify-content: space-evenly;
+}
+.grid{
+display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+.footer{
+display:flex;
+justify-content: flex-end;
+}
+.item{
+display:flex;
+flex-wrap: nowrap;
+}
